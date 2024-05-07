@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<head>
+<title>Flights</title>
+</head>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+
+<h1>Travel the World with US</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Times</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f0f0f0;
+        }
+    </style>
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel the World with Us</title>
+</head>
+<body>
+</body>
+</html>
+
+</head>
+<body>
+    <h2>Flight Times</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Flight</th>
+                <th>Departure</th>
+                <th>Arrival</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Flight 123</td>
+                <td>09:00 AM</td>
+                <td>11:30 AM</td>
+            </tr>
+            <tr>
+                <td>Flight 456</td>
+                <td>12:45 AM</td>
+                <td>03:15 PM</td>
+            </tr>
+           
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Times</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <h2>Flight Times</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Flight</th>
+                <th>Departure</th>
+                <th>Arrival</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Flight AA13</td>
+                <td>08:00 AM</td>
+                <td>10:30 PM</td>
+            </tr>
+            <tr>
+                <td>Flight BB46</td>
+                <td>10:45 AM</td>
+                <td>01:15 PM</td>
+            </tr>
+            <tr>
+                <td>Flight CC78</td>
+                <td>02:30 AM</td>
+                <td>04:00 PM</td>
+            </tr>
+           
+        </tbody>
+    </table>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Times</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <h2>Flight Times</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Flight</th>
+                <th>Departure</th>
+                <th>Arrival</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Flight AA123</td>
+                <td>08:00 PM</td>
+                <td>09:30 AM</td>
+            </tr>
+            <tr>
+                <td>Flight BB456</td>
+                <td>3:45 PM</td>
+                <td>5:15 AM</td>
+            </tr>
+            <tr>
+                <td>Flight C789</td>
+                <td>02:30 PM</td>
+                <td>04:00 AM</td>
+            </tr>
+            
+        </tbody>
+    </table>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Times</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <h2>Flight Times</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Flight</th>
+                <th>Departure</th>
+                <th>Arrival</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Flight AA15</td>
+                <td>3:00 AM</td>
+                <td>10:30 PM</td>
+            </tr>
+            <tr>
+                <td>Flight B456</td>
+                <td>1:45 AM</td>
+                <td>010:15 PM</td>
+            </tr>
+            <tr>
+                <td>Flight C789</td>
+                <td>02:30 PM</td>
+                <td>05:00 AM</td>
+            </tr>
+            
+        </tbody>
+    </table>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>index.html</title>
+</head>
+<body>
+    <p>Click <a href=index.html>here</a> travel world with us</p>
+</body>
+</html>
+<<div><a href="economy.html">economy</a></div>
+<div><a href="wildcard.html">wildcard</a></div>
+<div><a href="index.html">home</a></div>
+<div><a href="truck.html">truck</a></div>
+<div><a href="hotel.html">Come Stay with Us</a></div>
+
+
+
+

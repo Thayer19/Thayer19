@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+<title>Cars</title>
+</head>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+
+<h1>Economy</h1>
+<!--Centered Image Start-->
+      <div style="text-align: center;">
+         <img width="400" src="https://citycarandtruckrental.com/wp-content/uploads/2022/03/2022-kia-rio2.jpg">"
+      </div>
+      <!--Centered Image End-->
+</body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>24-Hour Pickup Time</title>
+</head>
+<body>
+    <h2>Select Pickup Time</h2>
+
+    <form>
+        <label for="pickup-time">Pickup time (24-hour format):</label>
+        <input type="time" id="pickup-time" name="pickup-time" min="00:00" max="23:59" required>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
+<div><a href="economy.html">economy</a></div>
+<div><a href="wildcard.html">wildcard</a></div>
+<div><a href="index.html">home</a></div>
+<div><a href="truck.html">truck</a></div>
+<div><a href="hotel.html">Come Stay with Us</a></div>
